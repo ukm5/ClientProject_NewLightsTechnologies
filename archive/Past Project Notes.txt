@@ -1,0 +1,6 @@
+Problem Statement #5
+
+	eamonious: Used Twython to pull text data and classify based on relevance to disaster. Applied for Twitter API keys in parallel.
+	newtonsspawn: Used the open source GetOldTweets3 to scrape Tweets relevant to natural disasters years in the past.
+	katerdowdy: Twitter's REST API only extends 30 days into the past; Used Selenium and BeautifulSoup to scrape data.
+	edithlyer: Used a Kaggle dataset for training, scraped Twitter for testing data. Used Selenium and BeautifulSoup to scrape data.
