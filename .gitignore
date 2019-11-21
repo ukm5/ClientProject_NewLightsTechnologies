@@ -1,3 +1,4 @@
-./archive/
+archive/
+.ipynb_checkpoints/
 twitter_credentials.json
 result.csv
